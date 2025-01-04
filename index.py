@@ -89,9 +89,9 @@ def create_rounded_corners_gif(input_gif, output_gif, corner_radius=30, blur_rad
 # Example usage:
 if __name__ == "__main__":
     # 1) Path to original GIF
-    input_path = "a.gif"
+    input_path = "Templates_Accessing_Templates.gif"
     # 2) Path to output
-    output_path = "rounded_corners.gif"
+    output_path = "Templates_Accessing_Templates_Rounded.gif"
 
     # 3) Corner radius (in pixels). Increase for more rounded corners
     corner_radius = 50
